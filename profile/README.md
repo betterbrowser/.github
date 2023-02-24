@@ -1,15 +1,12 @@
-<img src="arcfox-banner.png"/>
+<img src="arcfox.png"/>
 
 <div align="center">
   <h1>ArcFox</h1>
-
-  <br />
   <a href="https://arcfox.vercel.app">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/use-arcfox/docs">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/VRBVsjJ7NQ">Support</a>
-  <br />
   <hr />
 </div>
 
