@@ -1,4 +1,4 @@
-<img src="arcfox.png"/>
+<img src="arcfox-github.png"/>
 
 <div align="center">
   <h1>ArcFox</h1>
