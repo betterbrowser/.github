@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>ArcFox</h1>
-  <a href="https://arcfox.vercel.app">Website</a>
+  <a href="https://github.com/use-arcfox/arcfox">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/use-arcfox/docs">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
