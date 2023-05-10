@@ -2,11 +2,11 @@
 
 <div align="center">
   <h1>ArcFox</h1>
-  <a href="https://github.com/use-arcfox/arcfox">Website</a>
+  <a href="https://arcfox.vercel.app">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/use-arcfox/docs">Docs</a>
+  <a href="https://github.com/use-arcfox/docs">Documentation</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.gg/VRBVsjJ7NQ">Support</a>
+  <a href="https://discord.gg/C2aGfAgAHk">Community</a>
   <hr />
 </div>
 
